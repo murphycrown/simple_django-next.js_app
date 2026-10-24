@@ -1,4 +1,5 @@
 backend/db.sqlite3
+<<<<<<< HEAD
 venv
 frontend/node_modules
 frontend/.pnp
@@ -37,3 +38,7 @@ frontend/.vercel
 # typescript
 frontend/*.tsbuildinfo
 frontend/next-env.d.ts
+=======
+frontend/node_modules
+venv
+>>>>>>> fdce8ffd38135c0e10115219b28695c64e4e7d99
